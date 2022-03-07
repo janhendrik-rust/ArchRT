@@ -1,7 +1,5 @@
 # ArchRT Installer Script
 
-<img src="https://i.imgur.com/YiNMnan.png" />
-
 This README contains the steps I do to install and configure a fully-functional Arch Linux installation containing a desktop environment, all the support packages (network, bluetooth, audio, printers, etc.), along with all our preferred applications and utilities. The shell scripts in this repo allow the entire process to be automated.) This work is forked from the awesome work by Chris Titus and his community at <https://github.com/ChrisTitusTech/ArchTitus>
 
 ---
